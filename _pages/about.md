@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<span class='anchor' id='about-me'></span>
 # 🤵🏻 Biography
 I am a Ph.D. candidate at Nanjing University.
 

@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Wenyu Jiang (姜文玉)"
-description              : "Ph.D. candidate at Nanjing University."
+description              : ""
 repository               : "lygjwy/lygjwy.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,14 +22,14 @@ baidu_site_verification  : code-ZxFK3f4pfb
 # Site Author
 author:
   name             : "Wenyu Jiang (姜文玉)"
-  avatar           : "images/profile.png"
+  avatar           : "images/profile.jpg"
   bio              : "Ph.D. candidate at Nanjing University"
   email            : "lygjwy@smail.nju.edu.cn"
-  location         : "Room 325, Computer Science Building, Nanjing University Xianlin Campus"
   twitter          : "lygjwy"
   zhihu            : "lygjwy"
   googlescholar    : "https://scholar.google.com/citations?user=mdOH9HQAAAAJ&hl=zh-CN"
   github           : "lygjwy"
+# location         : "Room 325, Computer Science Building, Nanjing University Xianlin Campus"
 
 
 # Reading Files

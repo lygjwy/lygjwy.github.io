@@ -7,7 +7,7 @@ main:
     url: "/#-news"
 
   - title: "Publications"
-    url: "publication.html"
+    url: "/#-publications"
     
   - title: "Open-sourcing"
     url: "/#-open-sourcing"

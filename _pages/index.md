@@ -11,9 +11,18 @@ During my Ph.D., I was fortunate to work as a research intern in the group of Pr
 Previously, I obtained my B.E. from the [College of Software Engineering](https://cse.seu.edu.cn/) at [Southeast University](https://www.seu.edu.cn/) (China, Nanjing) in Jul 2020.
 Prior to that, I spent a wonderful time as an engineering intern in the Web Experience Team at the Microsoft Software Technology Center Asia (China, Suzhou) in 2019.
 
+My research focuses on  [Data-Centric Artificial Intelligence (DCAI)](https://dcai.csail.mit.edu/), which aims to **develop high-quality datasets** in real-world machine learning applications.
+This process usually involves data collection and labeling, handling out-of-distribution samples, selecting the coreset, and data augmentation.
+Our emphasis now is on exploring **the underlying mechanism behind the well-known scaling law from a data perspective** - a decisive driver of the frontier models, such as large language models (LLMs) and multi-modal LLMs.
+More details about my research topics are presented [here]().
+Last but not least, **I am always open to collaboration for something fun and valuable**!
+
 <strong style="color:red;">
-I am looking for a full-time job in industry or academia. Here is my [CV](../assets/CV-en.pdf). If you find a good match, feel free to contact me.
+Currently, I am looking for a full-time job in industry or academia. Here is my [CV](../assets/CV-en.pdf). If you find a good match, feel free to contact me.
 </strong>
 
 # 📢 News
-**Jan 2025:** One paper is accepted by ICLR 2025.
+**Jan 2025:** One paper is accepted by ICLR 2025!
+**Dec 2024:** One paper is accepted by AAAI 2025!
+**Aug 2024:** Two papers are accepted by NeurIPS 2024!
+**Jan 2024:** One paper is accepted by ICLR 2024!

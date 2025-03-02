@@ -22,7 +22,7 @@ Currently, I am looking for a full-time job in industry or academia. Here is my 
 </strong>
 
 # 📢 News
-**Jan 2025:** One paper is accepted by ICLR 2025!
-**Dec 2024:** One paper is accepted by AAAI 2025!
-**Aug 2024:** Two papers are accepted by NeurIPS 2024!
-**Jan 2024:** One paper is accepted by ICLR 2024!
+- **Jan 2025:** One paper is accepted by ICLR 2025! <br>
+- **Dec 2024:** One paper is accepted by AAAI 2025! <br>
+- **Aug 2024:** Two papers are accepted by NeurIPS 2024! <br>
+- **Jan 2024:** One paper is accepted by ICLR 2024! <br>

@@ -2,6 +2,9 @@
 title: ""
 excerpt: ""
 author_profile: true
+redirect_from: 
+  - /index/
+  - /index.html
 ---
 
 # 🤵🏻 Biography

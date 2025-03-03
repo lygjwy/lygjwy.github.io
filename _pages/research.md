@@ -1,5 +1,6 @@
 ---
 permalink: /research
+layout: transcript
 title: ""
 excerpt: ""
 author_profile: true

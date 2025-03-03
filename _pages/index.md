@@ -34,13 +34,15 @@ Currently, I am looking for a full-time job in industry or academia. Here is my 
   - Advisor: Prof. [Xiang Zhang](https://cs.seu.edu.cn/xzhang/main.htm)
  
 # 🖥️ Experience
-- **Research Intern, Department of Statistics and Data Science, Southern University of Science and Technology, Shenzhen, China.** (Jun 2023 - Dec 2024)
-  - Advisor: [Hongxin Wei](https://hongxin001.github.io/)
-- **Software Development Engineering Intern, Web Experience Team, Microsoft Software Technology Center Asia, Suzhou, China.** (Jul 2019 - Oct 2019)
+- **Research Intern, Department of Statistics and Data Science.**
+  - Southern University of Science and Technology, Shenzhen, China (Jun 2023 - Dec 2024)
+  - Advisor: Prof. [Hongxin Wei](https://hongxin001.github.io/)
+- **Software Development Engineering Intern, Web Experience Team.**
+  - Microsoft Software Technology Center Asia, Suzhou, China. (Jul 2019 - Oct 2019)
   - Mentor: Yiliang Xiong
 
 # 🏆 Awards and Honors
-- Financial Assistance Awardees by the ICLR Organizing Committee (2024)
-- Postgraduate Excellence Scholarship by the Nanjing University (2023)
-- National Scholarship by the China Ministry of Education (2018)
-- National Encouragement Scholarship by the China Ministry of Education (2017)
+- **Financial Assistance Awardees by the ICLR Organizing Committee** (2024)
+- **Postgraduate Excellence Scholarship by the Nanjing University** (2023)
+- **National Scholarship by the China Ministry of Education** (2018)
+- **National Encouragement Scholarship by the China Ministry of Education** (2017)

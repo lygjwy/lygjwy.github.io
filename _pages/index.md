@@ -14,7 +14,7 @@ Prior to that, I spent a wonderful time as an engineering intern in the Web Expe
 My research focuses on  [Data-Centric Artificial Intelligence (DCAI)](https://dcai.csail.mit.edu/), which aims to **develop high-quality datasets** for real-world machine learning applications.
 This process usually involves data collection and labeling, handling out-of-distribution samples, selecting the coreset, and data augmentation.
 Our emphasis now is on exploring **the underlying mechanism behind the well-known scaling law from a data perspective** - a decisive driver of the frontier models, such as large language models (LLMs) and multi-modal LLMs.
-More details about my research topics are presented [here]().
+More details about my research topics are presented [here](https://lygjwy.github.io/research).
 Last but not least, **I am always open to collaboration for something fun and valuable**!
 
 <strong style="color:red;">
@@ -39,7 +39,7 @@ Currently, I am looking for a full-time job in industry or academia. Here is my 
 - **Software Development Engineering Intern, Web Experience Team, Microsoft Software Technology Center Asia, Suzhou, China.** (Jul 2019 - Oct 2019)
   - Mentor: Yiliang Xiong
 
-# 🏆 Awards
+# 🏆 Awards and Honors
 - Financial Assistance Awardees by the ICLR Organizing Committee (2024)
 - Postgraduate Excellence Scholarship by the Nanjing University (2023)
 - National Scholarship by the China Ministry of Education (2018)

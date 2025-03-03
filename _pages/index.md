@@ -30,7 +30,7 @@ Currently, I am looking for a full-time job in industry or academia. Here is my 
 # 📖 Education
 - **Sep 2020 - Present:** Ph.D., School of Computer Science, Nanjing University, Nanjing, China.
   - Advisors: Prof. [Chongjun Wang](https://cs.nju.edu.cn/58/06/c2639a153606/pagem.htm) and Prof. [Junyuan Xie](https://cs.nju.edu.cn/58/21/c2639a153633/pagem.htm).
-- **Sep 2016 - Jul 2020:** B.S., School of Software Engineering, Southeast University}, Nanjing, China.
+- **Sep 2016 - Jul 2020:** B.S., School of Software Engineering, Southeast University, Nanjing, China.
   - Advisor: Prof. [Xiang Zhang](https://cs.seu.edu.cn/xzhang/main.htm)
  
 # 🖥️ Experience

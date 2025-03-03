@@ -15,9 +15,15 @@ layout: compress
     {% include masthead.html %}
 
     <div>
+      <div id="main" role="main">
+      <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
+        <div>
           <section class="page__content" itemprop="text">
             {{ content }}
           </section>
+        </div>
+      </article>
+     </div>
     </div>
     
   </body>

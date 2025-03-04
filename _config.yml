@@ -24,10 +24,10 @@ author:
   name_zh          : "姜文玉"
   name_en          : "Wenyu Jiang"
   avatar           : "images/profile.jpg"
-  bio              : "Ph.D. Student at Nanjing University."
+  bio              : "Ph.D. Student at Nanjing University"
   email            : "lygjwy@smail.nju.edu.cn"
   phone            : "(+86) 15951025160"
-  address          : "Room 325, Computer Science Building, Nanjing University Xianlin Campus"
+  address          : "Room 325, CS Building"
   googlescholar    : "https://scholar.google.com/citations?user=mdOH9HQAAAAJ&hl=zh-CN"
   github           : "lygjwy"
 

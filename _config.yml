@@ -24,13 +24,11 @@ author:
   name             : "Wenyu Jiang"
   avatar           : "images/profile.jpg"
   bio              : "Ph.D. Student at Nanjing University."
-# email            : "lygjwy@smail.nju.edu.cn"
-# phone            : "(+86) 15951025160"
-# twitter          : "lygjwy"
-# zhihu            : "lygjwy"
+  email            : "lygjwy@smail.nju.edu.cn"
+  phone            : "(+86) 15951025160"
+  address          : "Room 325, Computer Science Building, Nanjing University Xianlin Campus"
   googlescholar    : "https://scholar.google.com/citations?user=mdOH9HQAAAAJ&hl=zh-CN"
   github           : "lygjwy"
-# location         : "Room 325, Computer Science Building, Nanjing University Xianlin Campus"
 
 
 # Reading Files

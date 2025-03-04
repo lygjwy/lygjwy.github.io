@@ -21,7 +21,8 @@ baidu_site_verification  : code-ZxFK3f4pfb
 
 # Site Author
 author:
-  name             : "Wenyu Jiang"
+  name_zh          : "姜文玉"
+  name_en          : "Wenyu Jiang"
   avatar           : "images/profile.jpg"
   bio              : "Ph.D. Student at Nanjing University."
   email            : "lygjwy@smail.nju.edu.cn"

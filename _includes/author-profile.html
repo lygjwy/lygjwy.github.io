@@ -11,7 +11,7 @@
   <div class="author__content">
     <h3 class="author__name" style="text-align: center;">{{ author.name_en }}</h3>
     <h3 class="author__name" style="text-align: center;">{{ author.name_zh }}</h3>
-    {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
+    {% if author.bio %}<p class="author__bio" style="text-align: center;">{{ author.bio }}</p>{% endif %}
   </div>
 
   <div class="author__urls-wrapper">
@@ -23,30 +23,30 @@
         <li><a href="https://github.com/{{ author.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Github</a></li>
       {% endif %}
       {% if author.email %}
-        <li>Email: {{ author.email }} </li>
+        <li><i class="fab fa-fw fa-envelope"></i> {{ author.email }} </li>
       {% endif %}
       {% if author.phone %}
-        <li>Phone: {{ author.phone }} </li>
+        <li><i class="fab fa-fw fa-phone"></i> {{ author.phone }} </li>
       {% endif %}
       {% if author.address %}
-        <p>Address: {{ author.address }} </p>
+        <p><i class="fab fa-fw fa-location-dot"></i> {{ author.address }} </p>
       {% endif %}
     </ul>
       <div class="author__urls_sm">
       {% if author.googlescholar %}
-        <a href="{{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i></a>
+        <li><a href="{{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a></li>
       {% endif %}
       {% if author.github %}
-        <a href="https://github.com/{{ author.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a>
+        <li><a href="https://github.com/{{ author.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Github</a></li>
       {% endif %}
       {% if author.email %}
-        <li>Email: {{ author.email }} </li>
+        <li><i class="fab fa-fw fa-envelope"></i> {{ author.email }} </li>
       {% endif %}
       {% if author.phone %}
-        <li>Phone: {{ author.phone }} </li>
+        <li><i class="fab fa-fw fa-phone"></i> {{ author.phone }} </li>
       {% endif %}
       {% if author.address %}
-        <p>Address: {{ author.address }} </p>
+        <p><i class="fab fa-fw fa-location-dot"></i> {{ author.address }} </p>
       {% endif %}
     </div>
   </div>

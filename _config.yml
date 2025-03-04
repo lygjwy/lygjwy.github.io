@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Wenyu Jiang (姜文玉)"
+title                    : "Wenyu Jiang <be> (姜文玉)"
 description              : ""
 repository               : "lygjwy/lygjwy.github.io"
 google_scholar_stats_use_cdn : true
@@ -24,9 +24,10 @@ author:
   name             : "Wenyu Jiang (姜文玉)"
   avatar           : "images/profile.jpg"
   bio              : "Ph.D. candidate at Nanjing University"
-  email            : "lygjwy@smail.nju.edu.cn"
-  twitter          : "lygjwy"
-  zhihu            : "lygjwy"
+  mail             : "lygjwy@smail.nju.edu.cn"
+  phone            : "(+86) 15951025160"
+#  twitter          : "lygjwy"
+#  zhihu            : "lygjwy"
   googlescholar    : "https://scholar.google.com/citations?user=mdOH9HQAAAAJ&hl=zh-CN"
   github           : "lygjwy"
 # location         : "Room 325, Computer Science Building, Nanjing University Xianlin Campus"

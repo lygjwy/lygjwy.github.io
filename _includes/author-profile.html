@@ -5,12 +5,12 @@
 <div itemscope itemtype="http://schema.org/Person" class="profile_box">
 
   <div class="author__avatar">
-    <img src="{{ author.avatar }}" class="author__avatar" alt="{{ author.name }}">
+    <img src="{{ author.avatar }}" class="author__avatar" alt="{{ author.name_en }}">
   </div>
 
   <div class="author__content">
-    <h3 class="author__name" style="text-align: center;">{{ Wenyu Jiang }}</h3>
-    <h3 class="author__name" style="text-align: center;">{{ 姜文玉 }}</h3>
+    <h3 class="author__name" style="text-align: center;">{{ author.name_en }}</h3>
+    <h3 class="author__name" style="text-align: center;">{{ author.name_zh }}</h3>
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
   </div>
 
@@ -22,8 +22,8 @@
       {% if author.phone %}
         <li>Phone: {{ author.phone }} </li>
       {% endif %}
-      {% if author.location %}
-        <li style="word-break: break-all;">Address: {{ author.location }} </li>
+      {% if author.address %}
+        <li style="word-break: break-all;">Address: {{ author.address }} </li>
       {% endif %}
       {% if author.googlescholar %}
         <li><a href="{{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a></li>
@@ -39,8 +39,8 @@
       {% if author.phone %}
         <li>Phone: {{ author.phone }} </li>
       {% endif %}
-      {% if author.location %}
-        <li style="word-break: break-all;">Address: {{ author.location }} </li>
+      {% if author.address %}
+        <li style="word-break: break-all;">Address: {{ author.address }} </li>
       {% endif %}
       {% if author.googlescholar %}
         <a href="{{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i></a>

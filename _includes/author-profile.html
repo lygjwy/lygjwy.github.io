@@ -16,23 +16,12 @@
 
   <div class="author__urls-wrapper">
     <ul class="author__urls social-icons">
-      {% if author.email %}
-        <li>Email: {{ author.email }} </li>
-      {% endif %}
-      {% if author.phone %}
-        <li>Phone: {{ author.phone }} </li>
-      {% endif %}
-      {% if author.address %}
-        <li style="word-break: break-all;">Address: {{ author.address }} </li>
-      {% endif %}
       {% if author.googlescholar %}
         <li><a href="{{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a></li>
       {% endif %}
       {% if author.github %}
         <li><a href="https://github.com/{{ author.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Github</a></li>
       {% endif %}
-    </ul>
-      <div class="author__urls_sm">
       {% if author.email %}
         <li>Email: {{ author.email }} </li>
       {% endif %}
@@ -40,13 +29,24 @@
         <li>Phone: {{ author.phone }} </li>
       {% endif %}
       {% if author.address %}
-        <li style="word-break: break-all;">Address: {{ author.address }} </li>
+        <p>Address: {{ author.address }} </p>
       {% endif %}
+    </ul>
+      <div class="author__urls_sm">
       {% if author.googlescholar %}
         <a href="{{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i></a>
       {% endif %}
       {% if author.github %}
         <a href="https://github.com/{{ author.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a>
+      {% endif %}
+      {% if author.email %}
+        <li>Email: {{ author.email }} </li>
+      {% endif %}
+      {% if author.phone %}
+        <li>Phone: {{ author.phone }} </li>
+      {% endif %}
+      {% if author.address %}
+        <p>Address: {{ author.address }} </p>
       {% endif %}
     </div>
   </div>

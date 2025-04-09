@@ -18,7 +18,7 @@ More details about my research topics are presented [here](https://lygjwy.github
 Last but not least, **I am always open to collaboration for something fun and valuable**!
 
 <strong style="color:red;">
-Currently, I am looking for a full-time job in industry or academia. Here is my [CV](../assets/CV-en.pdf). If you find a good match, feel free to contact me.
+Currently, I am looking for a full-time job in industry or academia. Here is my [CV](../assets/CV-en.pdf) / [简历](../assets/CV-zh.pdf). If you find a good match, feel free to contact me.
 </strong>
 
 # 📢 News
